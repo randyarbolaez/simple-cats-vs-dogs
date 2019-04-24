@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat');
+
+img {
+  width: 350px;
+  height: 350px;
+  margin: 20% 0 0 0;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper h1 {
+  margin: 15%;
+  font-family: 'Caveat', cursive;
+}
+
+button {
+  margin: 10% 0 0 45%;
+  font-family: 'Caveat', cursive;
+  width: 10vw;
+  height: 10vh;
+  font-size: 1.6rem;
+}
